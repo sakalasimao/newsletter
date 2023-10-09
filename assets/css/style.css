@@ -167,3 +167,9 @@ body{
         order: 2;
     }
 }
+
+@media (max-width:685px) {
+        .container_div{
+            margin-top: -10px;
+        }
+}
